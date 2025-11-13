@@ -38,4 +38,3 @@ Data Cleaning & Transformation
 **Outcome:**
 Identified meaningful correlations between study habits, parental education, and student scores—helping educators understand which factors contribute most to academic success.
 
-GitHub Link: Students Habits & Academic Performance – Excel Dashboard
